@@ -1,17 +1,6 @@
-## Hi there 👋
-
 Hello,
 ------
 
-Welcome to the
+Welcome to Dutod's universe. We are a unit of [RocketApex Labs](https://www.rocketapex.com/products/labs), the R&D department of [RocketApex](https://www.rocketapex.com/). We work independently, and our aim is simple—to change how the world communicates, one byte at a time. 
 
-<!--
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+Please take a look at our website to learn more about us: [https://dutod.com/](https://dutod.com/)
